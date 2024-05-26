@@ -104,9 +104,9 @@ progress {
     background: crimson;
 }
 
-/* progress {
+progress {
     color: #f1c27d;
-} */
+}
 
 /* progress::-webkit-progress-value {
     background: #f1c27d;
