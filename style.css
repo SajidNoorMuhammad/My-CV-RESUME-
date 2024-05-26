@@ -140,11 +140,11 @@ progress::-moz-progress-bar {
     text-align: center;
 }
 
-/* marquee{
+marquee{
     font-size: 35px;
     color: #808080;
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
     text-decoration: underline;
     text-shadow: 0px 0px 8px #808080;
-} */
+}
