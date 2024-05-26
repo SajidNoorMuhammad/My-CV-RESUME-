@@ -112,9 +112,9 @@ progress::-webkit-progress-value {
     background: #f1c27d;
 }
 
-/* progress::-moz-progress-bar {
+progress::-moz-progress-bar {
     background: lightcolor;
-} */
+}
 
 /* .hobby{
     font-size: 30px;
