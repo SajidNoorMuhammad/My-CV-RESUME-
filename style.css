@@ -116,7 +116,7 @@ progress::-moz-progress-bar {
     background: lightcolor;
 }
 
-.hobby{
+.hobby {
     font-size: 30px;
     font-weight: bold;
     color: black;
@@ -127,24 +127,68 @@ progress::-moz-progress-bar {
     margin-top: 5%;
 }
 
-.end-one{
+.end-one {
     color: #808080;
     margin-top: 7% !important;
     font-size: 25px;
     text-align: center;
 }
 
-.end{
+.end {
     color: #808080;
     font-size: 25px;
     text-align: center;
 }
 
-marquee{
+marquee {
     font-size: 35px;
     color: #808080;
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
     text-decoration: underline;
     text-shadow: 0px 0px 8px #808080;
+}
+
+.col-12{
+    display: none;
+}
+
+.onquery{
+    display: none;
+}
+
+.introduction{
+    display: none;
+}
+
+@media only screen and (max-width: 600px){
+    .col-12{
+        display: block;
+    }
+
+
+    .image-two{
+        display: none;
+    }
+
+    .col-8{
+        display: none;
+    }
+
+    .onquery{
+        display: block;
+        margin-top: 5% !important;
+    }
+
+    .introduction{
+        display: block;
+        font-size: 40px;
+        margin-bottom: 0px;
+        font-weight: bold;
+        color: black;
+        margin-top: 5%;
+
+    }
+
+    
 }
